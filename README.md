@@ -73,5 +73,5 @@ Aplikasi dibuat sederhana karena fokus utama dari project ini adalah memahami pr
 
 ---
 
-## 👨‍💻 Author
+## Author
 Nama: Randy Maulana
